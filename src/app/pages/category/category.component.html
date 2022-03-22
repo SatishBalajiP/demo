@@ -1,0 +1,28 @@
+
+<br>
+<div class="container">
+    <div class="row row-cols-md-3 mb-3">
+        <ng-container>
+            <div class="card shadow-sm" *ngFor="let x of items | paginate : {itemsPerPage:6, currentPage:p};">
+                <a [routerLink]="['/details/'+x.id]"><img src="{{x.img}}" onclick="onAddToCart(x)"></a>
+                <h5><a [routerLink]="['/details/'+x.id]">{{x.name}}</a></h5>
+                <p style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 100ch;">
+                    {{x.description}}</p>
+                <p><strong>Price:</strong> ₹{{x.price}}</p>
+                <span class="badge bg-success badge-shadow align-middle mt-n2">Rating: {{x.rating}}</span>
+                <div class="card-body card-body-hidden">
+                    <button class="btn btn-primary btn-sm d-block w-100 mb-2" (click)=" onAddToCart(x)">Add to
+                        Cart</button>
+                    <div class="text-center">
+                        <a [routerLink]="['/details/'+x.id]"
+                            class="btn btn-outline-danger btn-sm d-block w-100 mb-2">View</a>
+                    </div>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+</div>
+
+<div class="page">
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>

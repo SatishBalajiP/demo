@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Women Colorblock Sneakers",
+        "price": 1500.00,
+        "description":"Crafted with fine technology and futuristic design, PUMA shoe is surely here to uplift your style and track games. Kick off on street and field in this shoe from the worlds leading and much loved sports brand, PUMA.",
+        "img":"https://rukminim2.flixcart.com/image/800/960/km0x5zk0/shoe/1/9/4/3-381167-3-puma-hot-coral-fair-aqua-original-imagfyqmexbd3th7.jpeg?q=50",
+        "rating": 4.5,
+        "reviews": 90,
+        "category":1
+    },
+    {
+        "id": 2,
+        "name": "RX Hoody",
+        "price": 1360.00,
+        "description":"Mark your solid impressions with ours ultra-soft, super cool hooded t-shirt. Wear this ultra-comfy full sleeve hooded t-shirt. Place in many ways with dark jeans, cuffed chinos. Its 100% soft cotton, solid color. Machine wash t-shirt, the material moves in every direction. Looks cool in every type of jacket so you look cool in winters as well. Its super dry and ultra-fashionable hooded must have t-shirt in your wardrobe.",
+        "img":"https://fifty150brand.com/wp-content/uploads/2018/11/11237.png",
+        "rating": 3.5,
+        "reviews": 377,
+        "category":2
+    },
+    {
+        "id": 3,
+        "name": "Carter analouge watch",
+        "price": 1900.00,
+        "description":"M7 By Metronaut Men Series watches are made keeping in mind the dynamic personality of today's Men. Men Series carry Digital watches for the young geeks, fashionable youths who carry a vibrant energy with them. Featuring Youth series Analog-Digital Combination watches which provides plenty of functionality with stylish designs to match your fashion and technology.",
+        "img":"https://th.bing.com/th/id/OIP.DpN7QKf41A8iA3lidmapxwHaHa?pid=ImgDet&rs=1",
+        "rating": 3,
+        "reviews": 45,
+        "category":3
+    },
+    {
+        "id": 4,
+        "name": "PS5",
+        "price": 55000.00,
+        "description":"The PlayStation 5 is powered by a custom system on a chip (SoC) designed in tandem by AMD and Sony, integrating a custom 7 nm AMD Zen 2 CPU with eight cores running at a variable frequency capped at 3.5 GHz. The integrated GPU is also a custom unit based on AMD's RDNA 2 graphics architecture.",
+        "img":"https://ftw.usatoday.com/wp-content/uploads/sites/90/2020/09/GetObject-2020-09-09T122913.119.jpeg?w=1000&h=600&crop=1",
+        "rating": 4.7,
+        "reviews": 10777,
+        "category": 4
+    },
+    {
+        "id": 5,
+        "name": "TZONE T-Shirt",
+        "price": 5000.00,
+        "description":"TRIPR mens Henley neck full sleeve T-shirt direct from the manfacturers.By wearing this tshirt it gives a stylish look and great comfort.Fill your wardrobe with beautiful and stylish collections of tripr tshirts. Trusted brand online and no compromise on quality.",
+        "img":"https://funky-t-shirt.com/assets/funkytshirt/img/products/2158/image/saab-sport-tee-motorsport-racing.JPG",
+        "rating": 4.0,
+        "reviews": 1657,
+        "category": 2
+    },
+    {
+        "id": 6,
+        "name": "G-sport watch",
+        "price": 13400.00,
+        "description":"Put on this digital wrist watch that is prepared by hala during a sport dawdle with your friends and earn enormous of compliments. Made out of a premium quality material, this digital watch is long lasting and durable too. Further, the casing adds more appeal to its overall look that you can wear out during your sports days.Featuring a sporty round dial with stylish numerals inside, this watch for men is very much water resistant and will retain its quality for the years to come. You can show it off with your casual attires to grab compliments from everyone around.",
+        "img":"https://th.bing.com/th/id/OIP.D9Fy4vYM1O_ro6wlHf5JBwHaHa?pid=ImgDet&rs=1",
+        "rating": 4.6,
+        "reviews": 6577,
+        "category": 3
+    },
+    {
+        "id": 7,
+        "name": "Show boots",
+        "price": 8900.00,
+        "description":"Give yourself the advantage of comfortable feet while you flaunt your style. In these shoes from Hotstyle, you can make an impression and how! The crafting of this pair with lace up ensures that your feet have a perfect fit. The popular brand, Hotstyle offers a wide spectrum of stylish footwear that are a fusion of contemporary designs and impeccable quality materials thus, reflecting the spirit of youth.",
+        "img":"https://th.bing.com/th/id/OIP.Rv8-J6ttm_4BkVbSCKYFcAHaHa?pid=ImgDet&rs=1",
+        "rating": 2.7,
+        "reviews": 277,
+        "category": 1
+    },
+    {
+        "id": 8,
+        "name": "T-shirt tee",
+        "price": 5500.00,
+        "description":"This men's long sleeve shirt is inspired by football jerseys. Satin fabric and a big Trefoil logo on the front give it a sporty look. This product is made with Primegreen, a series of high-performance recycled materials.",
+        "img":"https://th.bing.com/th/id/OIP.imcwEpvEYraleQJ4ha2a9wHaHa?pid=ImgDet&rs=1",
+        "rating": 4.7,
+        "reviews": 1577,
+        "category": 2
+    },
+    {
+        "id": 9,
+        "name": "Watchin",
+        "price": 85000.00,
+        "description":"Introducing the latest additions to the ECB-900 Series of EDIFICE metal chronograph models with advanced features and functions that allow linking with your smartphone. These new models feature digital displays at 12 oclock and 9 oclock, which team up with the analog indications to show information in an easy-to-understand format. Establishing a Bluetooth connection between these watches and a smartphone ensures accurate timekeeping, including summer time switching, in virtually any country in the world. A phone can also be used to configure a variety of watch settings.",
+        "img":"https://th.bing.com/th/id/OIP.j75tMBXx3F9PMmbsP-zI7gHaHa?pid=ImgDet&rs=1",
+        "rating": 3.2,
+        "reviews": 53,
+        "category": 3
+    },
+    {
+        "id": 10,
+        "name": "Acer Laptop",
+        "price": 95000.00,
+        "description":"acer Aspire 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-75G-50TA/ A715-75G-41G/ A715-75G-52AA Gaming Laptop  (15.6 inch, Black, 2.15 Kg)",
+        "img":"https://th.bing.com/th/id/R.3996151853595800af2b8f70827b89ea?rik=9Hpw1ub%2bwVBRgg&riu=http%3a%2f%2fwww.myink.in%2fwp-content%2fuploads%2f2017%2f12%2fAcer-Gaming-Laptop.jpg&ehk=JmdqKbZ1bdpXVxXm3FK8BjLK0RyST6IqemeDnqPByAk%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 4.3,
+        "reviews": 5634,
+        "category": 4
+    },
+    {
+        "id": 11,
+        "name": "HP Laptop",
+        "price": 68000.00,
+        "description":"HP Pavilion Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-ec2004AX Gaming Laptop  (15.6 inch, Shadow Black, 1.98 kg)",
+        "img":"https://th.bing.com/th/id/R.8415ea3a62bd98b271ea4df5abd1d925?rik=3k36nZHo%2bNdubw&riu=http%3a%2f%2fwww.notebookcheck.net%2ffileadmin%2fNotebooks%2fHP%2f250_G3%2fc04055256_1560x1144.jpg&ehk=IX6XyIKtOynInTnWOaUButDO%2fESM%2fJ0wf2rN1Ao3hTM%3d&risl=&pid=ImgRaw&r=0",
+        "rating": 3.9,
+        "reviews": 17623,
+        "category": 4
+    },
+    {
+        "id": 12,
+        "name": "RT Mobile",
+        "price": 25000.00,
+        "description":"Rt (stylized as rt) is a brand of Android based smartphones developed by Realme Chongqing Mobile Telecommunications Corporation, Ltd., a manufacturer based in Shenzhen, China.",
+        "img":"https://th.bing.com/th/id/OIP.QA4ACYDNOxNauEImwaPwhwHaHT?pid=ImgDet&rs=1",
+        "rating": 3.4,
+        "reviews": 5243,
+        "category": 4
+    }
+
+]
